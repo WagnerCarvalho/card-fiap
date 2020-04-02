@@ -68,7 +68,7 @@ docker-compose down --rmi all
 ```
 
 ## Documentação Swagger
-[Api Swagger](http://localhost:5000/swagger-ui.html), [GitHub Api](), [GitHub App]()
+[Api Swagger](http://localhost:5000/swagger-ui.html), [GitHub Api](https://github.com/WagnerCarvalho/fiap-spring/blob/master/api/README.md), [GitHub App](https://github.com/WagnerCarvalho/fiap-spring/blob/master/app/README.md)
 
 
 

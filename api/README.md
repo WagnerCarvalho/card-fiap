@@ -27,13 +27,13 @@ Using generated security password: 2babb967-9d13-4a7a-aed9-e9d972413304
 
 Postman
 <p align="center">
-  <img src="https://github.com/hubeduardo/springFiap/blob/master/.github/postman.png" width="800">
+  <img src="https://github.com/WagnerCarvalho/fiap-spring/tree/master/.github/postman.png" width="800">
 </p>
 
 Navegador
 
 <p align="center">
-  <img src="https://github.com/hubeduardo/springFiap/blob/master/.github/navegador.png" width="800">
+  <img src="https://github.com/WagnerCarvalho/fiap-spring/tree/master/.github/navegador.png" width="800">
 </p>
 
 
