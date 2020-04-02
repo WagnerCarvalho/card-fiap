@@ -26,11 +26,11 @@ Using generated security password: 2babb967-9d13-4a7a-aed9-e9d972413304
 > O usuário e senha deverão ser informados para algumas requisições onde a resposta seja 401:
 
 <p align="center">
-  <img src="https://github.com/WagnerCarvalho/fiap-spring/tree/master/.github/postman.png" width="350">
+  <img src="https://raw.githubusercontent.com/WagnerCarvalho/fiap-spring/master/.github/postman.png" width="700">
 </p>
 
 <p align="center">
-  <img src="https://github.com/WagnerCarvalho/fiap-spring/tree/master/.github/navegador.png" width="350">
+  <img src="https://raw.githubusercontent.com/WagnerCarvalho/fiap-spring/master/.github/navegador.png" width="700">
 </p>
 
 ## Endpoints Ping Test
