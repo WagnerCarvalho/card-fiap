@@ -8,9 +8,17 @@ Spring Boot + Kotlin + MongoDB rest API
 2. `java 8 JDK` 
 ```
 
-## Running mongo
+## Running App + Mongo
 ```
 # Run in project root
-$ docker-compose up -d
+$ cd app
+$ ./run.sh
+```
+
+## Running App
+```
+# Run in project root
+$ cd app
+$ ./gradlew bootRun
 ```
 
