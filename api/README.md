@@ -1,6 +1,25 @@
 # Getting Started
 Spring Boot + Kotlin + MongoDB
 
+## Requires:
+```
+1. `docker-compose`
+2. `java 8 JDK` 
+```
+
+## Running Api + Mongo
+```
+# Run in project root
+$ cd api
+$ ./run.sh
+```
+
+## Running Api
+```
+# Run in project root
+$ cd api
+$ ./gradlew bootRun
+```
 
 ## Efetuar autenticação para requisições
 > Algumas requisições deverão ser autenticadas com usuário e senha.
@@ -28,15 +47,13 @@ Using generated security password: 2babb967-9d13-4a7a-aed9-e9d972413304
 Postman
 
 <p align="center">
-  <img src="https://github.com/WagnerCarvalho/fiap-spring/blob/master/.github/postman.png" width="800">
+  <img src="https://raw.githubusercontent.com/WagnerCarvalho/fiap-spring/master/.github/postman.png" width="700">
 </p>
 
 Navegador
-
 <p align="center">
-  <img src="https://github.com/WagnerCarvalho/fiap-spring/blob/master/.github/navegador.png" width="800">
+  <img src="https://raw.githubusercontent.com/WagnerCarvalho/fiap-spring/master/.github/navegador.png" width="700">
 </p>
-
 
 ## Endpoints Ping Test
 Requisição para Test de aplicação (Não é necessário Autenticar com usuário e senha) 
