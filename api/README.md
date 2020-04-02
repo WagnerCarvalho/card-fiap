@@ -1,6 +1,25 @@
 # Getting Started
 Spring Boot + Kotlin + MongoDB
 
+## Requires:
+```
+1. `docker-compose`
+2. `java 8 JDK` 
+```
+
+## Running App + Mongo
+```
+# Run in project root
+$ cd api
+$ ./run.sh
+```
+
+## Running App
+```
+# Run in project root
+$ cd api
+$ ./gradlew bootRun
+```
 
 ## Efetuar autenticação para requisições
 > Algumas requisições deverão ser autenticadas com usuário e senha.
