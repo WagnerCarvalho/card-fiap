@@ -39,18 +39,18 @@ jobs:
 
       - run:
           name: Test Unit
-          path: app/
+          path: api/
           command: ./gradlew cleanTest test
 
       - store_artifacts:
-          path: app/build/reports/test
+          path: api/build/reports/test
           destination: test/
 
       - run:
           name: Test KtLint
-          path: app/
+          path: api/
           command: ./gradlew ktLint
           
       - store_artifacts:
-          path: app/build/reports/kt
+          path: api/build/reports/kt
           destination: kt/
