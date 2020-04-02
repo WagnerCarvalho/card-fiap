@@ -7,14 +7,14 @@ Spring Boot + Kotlin + MongoDB
 2. `java 8 JDK` 
 ```
 
-## Running App + Mongo
+## Running Api + Mongo
 ```
 # Run in project root
 $ cd api
 $ ./run.sh
 ```
 
-## Running App
+## Running Api
 ```
 # Run in project root
 $ cd api
