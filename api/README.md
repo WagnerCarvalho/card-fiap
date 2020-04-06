@@ -52,7 +52,7 @@ Postman
 
 Navegador
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WagnerCarvalho/fiap-spring/master/.github/navegador.png" width="700">
+  <img src="https://raw.githubusercontent.com/WagnerCarvalho/fiap-spring/master/.github/navegador.png?token=ABZNZYPSJUDKK3DXODDWOUS6ST6A6" width="700">
 </p>
 
 ## Endpoints Ping Test
