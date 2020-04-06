@@ -47,7 +47,7 @@ Using generated security password: 2babb967-9d13-4a7a-aed9-e9d972413304
 Postman
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WagnerCarvalho/fiap-spring/master/.github/postman.png" width="700">
+  <img src="https://raw.githubusercontent.com/WagnerCarvalho/fiap-spring/master/.github/postman.png?token=ABZNZYM6PQTDG6NEB4DEQTC6ST6F4" width="700">
 </p>
 
 Navegador
