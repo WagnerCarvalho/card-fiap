@@ -132,7 +132,7 @@ localhost:5000/v1/fiap/generate-extrato/${user_doc}
 
 Login (Informar usuário e Senha)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WagnerCarvalho/fiap-spring/code-cov/.github/extratoLogin.png?token=ABZNZYNNFW5IVNG5BYOAAW26SUVJU" width="700">
+  <img src="https://raw.githubusercontent.com/WagnerCarvalho/fiap-spring/master/.github/extratoLogin.png?token=ABZNZYPPJQUOO6CCNN2MSWK6SUWHM" width="700">
 </p>
 
 PDF (Visualizar e fazer Download)
