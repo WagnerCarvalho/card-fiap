@@ -32,8 +32,9 @@ seguintes requisitos:
 
 RF1, RF3 e RF4 (Api)
 > Aplicação em [Kotlin](https://kotlinlang.org/) / [Spring](https://spring.io/projects/spring-framework) utilizando [Reactivex - RxJava2](http://reactivex.io/) com [MongoDB](https://www.mongodb.com/) para cadastrar usuários e transações.
-A idéia em ter uma aplicação assíncrona não bloqueante com segurança utilizando [Spring Security](https://spring.io/projects/spring-security), onde as requisições deverão ser autenticadas por usuário e senha. Toda documentação foi feita pelo
-[Swagger](https://github.com/wordnik/swagger-spec) para efetuar as chamadas REST em Api's.
+A idéia em ter uma aplicação assíncrona não bloqueante com segurança utilizando [Spring Security](https://spring.io/projects/spring-security), onde as requisições deverão ser autenticadas por usuário e senha. Toda documentação foi feita pelo [Swagger](https://github.com/wordnik/swagger-spec) para efetuar as chamadas REST em Api's.
+Para manter a qualidade do código crescendo foi adicionado CI com [CircleCI](https://circleci.com/) e [Codecov](https://codecov.io/). 
+
 
 RF2 (App)
 > Aplicação em [Kotlin](https://kotlinlang.org/) / [Spring](https://spring.io/projects/spring-boot) com utilização do [Spring Batch](https://spring.io/projects/spring-batch) para fazer leitura de arquivos para integração de usuários.
