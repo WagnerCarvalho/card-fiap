@@ -1,4 +1,12 @@
-[![CircleCI](https://circleci.com/gh/WagnerCarvalho/fiap-spring.svg?style=svg)](https://circleci.com/gh/WagnerCarvalho/fiap-spring)
+
+[![CircleCI](https://circleci.com/gh/caueferreira/akka-bank.svg?style=svg)](https://circleci.com/gh/caueferreira/akka-bank) 
+
+
+
+[![CircleCI](https://circleci.com/gh/caueferreira/akka-bank.svg?style=svg)](https://circleci.com/gh/caueferreira/akka-bank) 
+
+
+
 [![ktlint](https://img.shields.io/badge/code%20style-%E2%9D%A4-FF4081.svg)](https://ktlint.github.io/)
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/6df8d9d2452bbe235682/maintainability)](https://codeclimate.com/github/caueferreira/akka-bank/maintainability) 
