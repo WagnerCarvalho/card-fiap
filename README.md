@@ -42,11 +42,9 @@ RF2 (App)
 
 *   *Formatação de Código Padrão*, utilizado plugin Plugin [kotlinter](https://plugins.gradle.org/plugin/org.jmailen.kotlinter) para manter o padrão do código.
 
-*   *Integração de Teste*, utilizado [CircleCi](https://circleci.com/) foi adicionado CI para manter a qualidade do código crescendo.
-
-*   *Integração com cobertura de Teste*, [Codecov](https://codecov.io/)
-
 *   *Executar Aplicação*, utilizado [Docker](https://www.docker.com/) para a aplicação funcionar em qualquer ambiente.
+
+*   *Pipeline CI/CD para teste*, foram utilizados [CircleCi](https://circleci.com/) e [Codecov](https://codecov.io/).
 
 
 ## Requisitos:
