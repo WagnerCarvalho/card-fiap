@@ -79,6 +79,3 @@ docker-compose down --rmi all
 
 
 > [GitHub App](https://github.com/WagnerCarvalho/fiap-spring/blob/master/app/README.md) (Documentação disponível)
-
-
-
