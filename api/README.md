@@ -137,4 +137,4 @@ Login (Informar usuário e Senha)
 
 PDF (Visualizar e fazer Download)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WagnerCarvalho/fiap-spring/code-cov/.github/extrato.png?token=ABZNZYKKVNCG5IQUVX7BIS26SUVMK" width="700">
+  <img src="https://raw.githubusercontent.com/WagnerCarvalho/fiap-spring/master/.github/extrato.png?token=ABZNZYIVYETEZNRBAIVKQF26SUWEI" width="700">
