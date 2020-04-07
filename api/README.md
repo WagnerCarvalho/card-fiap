@@ -125,6 +125,19 @@ curl -X POST \
   }'
 ```
 
+Download PDF by Transactions
+localhost:5000/v1/fiap/generate-extrato/${user_doc}
+```
+Login (Informar usuário e Senha)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WagnerCarvalho/fiap-spring/code-cov/.github/extratoLogin.png?token=ABZNZYNNFW5IVNG5BYOAAW26SUVJU" width="700">
+</p>
+
+PDF (Visualizar e fazer Download)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WagnerCarvalho/fiap-spring/code-cov/.github/extrato.png?token=ABZNZYKKVNCG5IQUVX7BIS26SUVMK" width="700">
+```
+
 
 
 
