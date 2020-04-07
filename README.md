@@ -1,4 +1,9 @@
-[![CircleCI](https://circleci.com/gh/WagnerCarvalho/fiap-spring/tree/master.svg?style=svg)](https://circleci.com/gh/WagnerCarvalho/fiap-spring/tree/master)
+<p align="left">
+  <img src="https://circleci.com/gh/WagnerCarvalho/fiap-spring/tree/master.svg?style=svg" width="10">
+  [![CircleCI]()](https://circleci.com/gh/WagnerCarvalho/fiap-spring/tree/master)
+</p>
+
+
 
 
 [![ktlint](https://img.shields.io/badge/code%20style-%E2%9D%A4-FF4081.svg)](https://ktlint.github.io/)
