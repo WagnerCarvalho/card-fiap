@@ -1,4 +1,6 @@
 
+[![CircleCI](https://circleci.com/gh/WagnerCarvalho/fiap-spring.svg?style=svg)](https://circleci.com/gh/WagnerCarvalho/fiap-spring)
+
 [![CircleCI](https://circleci.com/gh/caueferreira/akka-bank.svg?style=svg)](https://circleci.com/gh/caueferreira/akka-bank) 
 
 
