@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.fiap.api.controller.UserControllerTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2020-04-10T20:55:19" hostname="MBP-de-Rappi-TI.lan" time="0.266">
+  <properties/>
+  <testcase name="test_remove_event_request_header" classname="com.fiap.api.controller.UserControllerTest" time="0.049"/>
+  <testcase name="test_update_user_ok_request_header" classname="com.fiap.api.controller.UserControllerTest" time="0.012"/>
+  <testcase name="test_remove_user_ok" classname="com.fiap.api.controller.UserControllerTest" time="0.108"/>
+  <testcase name="test_create_user_bad_request_header" classname="com.fiap.api.controller.UserControllerTest" time="0.015"/>
+  <testcase name="test_update_user_ok" classname="com.fiap.api.controller.UserControllerTest" time="0.019"/>
+  <testcase name="test_create_user_ok" classname="com.fiap.api.controller.UserControllerTest" time="0.028"/>
+  <testcase name="test_create_event_body" classname="com.fiap.api.controller.UserControllerTest" time="0.019"/>
+  <testcase name="test_update_user_ok_request_body" classname="com.fiap.api.controller.UserControllerTest" time="0.004"/>
+  <testcase name="test_remove_user_request_body" classname="com.fiap.api.controller.UserControllerTest" time="0.004"/>
+  <system-out><![CDATA[
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::        (v2.2.2.RELEASE)
+
+2020-04-10 17:55:17.936  INFO 14895 --- [    Test worker] c.f.api.controller.UserControllerTest    : Starting UserControllerTest on MBP-de-Rappi-TI.lan with PID 14895 (started by wagnercarvalho in /Users/wagnercarvalho/Desktop/projeto/fiap/spring/fiap-spring/api)
+2020-04-10 17:55:17.937  INFO 14895 --- [    Test worker] c.f.api.controller.UserControllerTest    : No active profile set, falling back to default profiles: default
+2020-04-10 17:55:18.399  INFO 14895 --- [    Test worker] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-04-10 17:55:18.402  INFO 14895 --- [    Test worker] trationDelegate$BeanPostProcessorChecker : Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-04-10 17:55:18.402  INFO 14895 --- [    Test worker] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@dda9100' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-04-10 17:55:18.407  INFO 14895 --- [    Test worker] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-04-10 17:55:18.409  INFO 14895 --- [    Test worker] trationDelegate$BeanPostProcessorChecker : Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-04-10 17:55:18.692  INFO 14895 --- [    Test worker] .s.s.UserDetailsServiceAutoConfiguration : 
+
+Using generated security password: 4a6ca40e-19e9-477c-b268-e89a32ec1048
+
+2020-04-10 17:55:18.737  INFO 14895 --- [    Test worker] o.s.s.web.DefaultSecurityFilterChain     : Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@30d3ec32, org.springframework.security.web.context.SecurityContextPersistenceFilter@417ab1ac, org.springframework.security.web.header.HeaderWriterFilter@2f01a046, org.springframework.security.web.authentication.logout.LogoutFilter@20fdbb2d, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@353473c3, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@131e0b07, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@31bf9ab2, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6273f80b, org.springframework.security.web.session.SessionManagementFilter@7d7f0b65, org.springframework.security.web.access.ExceptionTranslationFilter@66168400, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@9d83f49]
+2020-04-10 17:55:18.759  INFO 14895 --- [    Test worker] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2020-04-10 17:55:18.830  INFO 14895 --- [    Test worker] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-04-10 17:55:18.900  INFO 14895 --- [    Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2020-04-10 17:55:18.901  INFO 14895 --- [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2020-04-10 17:55:18.904  INFO 14895 --- [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 3 ms
+2020-04-10 17:55:18.916  INFO 14895 --- [    Test worker] d.s.w.p.DocumentationPluginsBootstrapper : Context refreshed
+2020-04-10 17:55:18.917  INFO 14895 --- [    Test worker] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+2020-04-10 17:55:18.920  INFO 14895 --- [    Test worker] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+2020-04-10 17:55:19.055  INFO 14895 --- [    Test worker] c.f.api.controller.UserControllerTest    : Started UserControllerTest in 1.13 seconds (JVM running for 4.957)
+2020-04-10 17:55:19.245  WARN 14895 --- [    Test worker] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'application/octet-stream' not supported]
+2020-04-10 17:55:19.313  WARN 14895 --- [    Test worker] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public java.util.concurrent.Future<com.fiap.api.domain.User> com.fiap.api.controller.UserController.createUser(com.fiap.api.entities.request.CreateUserRequest) with 5 errors: [Field error in object 'createUserRequest' on field 'doc': rejected value []; codes [NotEmpty.createUserRequest.doc,NotEmpty.doc,NotEmpty.java.lang.String,NotEmpty]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [createUserRequest.doc,doc]; arguments []; default message [doc]]; default message [não pode estar vazio]] [Field error in object 'createUserRequest' on field 'lastName': rejected value []; codes [NotEmpty.createUserRequest.lastName,NotEmpty.lastName,NotEmpty.java.lang.String,NotEmpty]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [createUserRequest.lastName,lastName]; arguments []; default message [lastName]]; default message [não pode estar vazio]] [Field error in object 'createUserRequest' on field 'password': rejected value []; codes [NotEmpty.createUserRequest.password,NotEmpty.password,NotEmpty.java.lang.String,NotEmpty]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [createUserRequest.password,password]; arguments []; default message [password]]; default message [não pode estar vazio]] [Field error in object 'createUserRequest' on field 'name': rejected value []; codes [NotEmpty.createUserRequest.name,NotEmpty.name,NotEmpty.java.lang.String,NotEmpty]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [createUserRequest.name,name]; arguments []; default message [name]]; default message [não pode estar vazio]] [Field error in object 'createUserRequest' on field 'email': rejected value []; codes [NotEmpty.createUserRequest.email,NotEmpty.email,NotEmpty.java.lang.String,NotEmpty]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [createUserRequest.email,email]; arguments []; default message [email]]; default message [não pode estar vazio]] ]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

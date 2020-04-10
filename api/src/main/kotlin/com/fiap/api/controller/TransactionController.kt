@@ -54,7 +54,7 @@ class TransactionController {
 
         var user: User = userRepository.findByDoc(doc).first()
 
-        var transactions: MutableList<Transaction> = transactionRepository.findByuserDoc(doc)
+        var transactions: MutableList<Transaction> = transactionRepository.findByUserDoc(doc)
 
         val bis: ByteArrayInputStream = PDFService.report(user, transactions)
 

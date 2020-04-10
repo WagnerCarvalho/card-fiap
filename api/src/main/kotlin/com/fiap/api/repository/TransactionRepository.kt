@@ -7,5 +7,5 @@ import org.springframework.stereotype.Repository
 @Repository
 interface TransactionRepository : MongoRepository<Transaction, String> {
 
-    fun findByuserDoc(userDoc: String): MutableList<Transaction>
+    fun findByUserDoc(userDoc: String): MutableList<Transaction>
 }
