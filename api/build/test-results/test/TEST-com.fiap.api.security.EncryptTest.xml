@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.fiap.api.security.EncryptTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-10T20:55:17" hostname="MBP-de-Rappi-TI.lan" time="0.145">
-  <properties/>
-  <testcase name="testGeneratePassword" classname="com.fiap.api.security.EncryptTest" time="0.145"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
