@@ -6,7 +6,7 @@
 
 Spring + Kotlin + MongoDB + Docker + Python
 
-## Problema:
+## Desafio:
 
 A FIAP resolveu criar seu próprio cartão de crédito para ser utilizado pelos
 alunos e para isso necessita de um sistema para gerenciamento e
